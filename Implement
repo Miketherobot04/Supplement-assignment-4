@@ -1,0 +1,6 @@
+assignment/
+├── main.py
+├── test/
+│   └── test_main.py
+├── requirements.txt (optional, for dependencies)
+└── README.md
